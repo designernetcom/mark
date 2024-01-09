@@ -1,0 +1,239 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 21/04/2020 11:53
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-miscellaneous:before { content: "\f100"; }
+.flaticon-passport:before { content: "\f101"; }
+.flaticon-passport-1:before { content: "\f102"; }
+.flaticon-passport-2:before { content: "\f103"; }
+.flaticon-call:before { content: "\f104"; }
+.flaticon-passport-3:before { content: "\f105"; }
+.flaticon-visa:before { content: "\f106"; }
+.flaticon-passport-4:before { content: "\f107"; }
+.flaticon-passport-5:before { content: "\f108"; }
+.flaticon-passport-6:before { content: "\f109"; }
+.flaticon-passport-7:before { content: "\f10a"; }
+.flaticon-departure:before { content: "\f10b"; }
+.flaticon-airplane:before { content: "\f10c"; }
+.flaticon-travel:before { content: "\f10d"; }
+.flaticon-departures:before { content: "\f10e"; }
+.flaticon-plane:before { content: "\f10f"; }
+.flaticon-plane-1:before { content: "\f110"; }
+.flaticon-insurance:before { content: "\f111"; }
+.flaticon-family:before { content: "\f112"; }
+.flaticon-family-1:before { content: "\f113"; }
+.flaticon-graduation-hat:before { content: "\f114"; }
+.flaticon-cap:before { content: "\f115"; }
+.flaticon-reading:before { content: "\f116"; }
+.flaticon-graduation-hat-1:before { content: "\f117"; }
+.flaticon-boarding-pass:before { content: "\f118"; }
+.flaticon-boarding-pass-1:before { content: "\f119"; }
+.flaticon-identification:before { content: "\f11a"; }
+.flaticon-plane-ticket:before { content: "\f11b"; }
+.flaticon-plane-ticket-1:before { content: "\f11c"; }
+.flaticon-plane-tickets:before { content: "\f11d"; }
+.flaticon-certificate:before { content: "\f11e"; }
+.flaticon-circular-label-with-certified-stamp:before { content: "\f11f"; }
+.flaticon-certificate-1:before { content: "\f120"; }
+.flaticon-policy:before { content: "\f121"; }
+.flaticon-contract:before { content: "\f122"; }
+.flaticon-book:before { content: "\f123"; }
+.flaticon-book-1:before { content: "\f124"; }
+.flaticon-open-book:before { content: "\f125"; }
+.flaticon-email:before { content: "\f126"; }
+.flaticon-email-1:before { content: "\f127"; }
+.flaticon-address:before { content: "\f128"; }
+.flaticon-location:before { content: "\f129"; }
+.flaticon-placeholder:before { content: "\f12a"; }
+.flaticon-global:before { content: "\f12b"; }
+.flaticon-play-button:before { content: "\f12c"; }
+.flaticon-passport-8:before { content: "\f12d"; }
+.flaticon-passport-9:before { content: "\f12e"; }
+.flaticon-passport-10:before { content: "\f12f"; }
+.flaticon-passport-11:before { content: "\f130"; }
+.flaticon-boarding-pass-2:before { content: "\f131"; }
+.flaticon-passport-12:before { content: "\f132"; }
+.flaticon-visa-1:before { content: "\f133"; }
+.flaticon-passport-13:before { content: "\f134"; }
+.flaticon-passport-14:before { content: "\f135"; }
+.flaticon-bussiness-man:before { content: "\f136"; }
+.flaticon-meeting:before { content: "\f137"; }
+.flaticon-interview:before { content: "\f138"; }
+.flaticon-support:before { content: "\f139"; }
+.flaticon-refugee:before { content: "\f13a"; }
+.flaticon-job-interview:before {
+  content: "\f164";
+}
+.flaticon-approved-1:before {
+  content: "\f171";
+}
+.flaticon-passport-16:before {
+  content: "\f17b";
+}
+
+
+
+
+@font-face {
+  font-family: "flaticon";
+  src: url("../fonts/flaticon.ttf?1df927c4626e072d7cc017c3d3023445") format("truetype"),
+url("../fonts/flaticon.woff?1df927c4626e072d7cc017c3d3023445") format("woff"),
+url("../fonts/flaticon.woff2?1df927c4626e072d7cc017c3d3023445") format("woff2"),
+url("../fonts/flaticon.eot?1df927c4626e072d7cc017c3d3023445#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?1df927c4626e072d7cc017c3d3023445#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-pin:before {
+  content: "\f101";
+}
+.flaticon-email:before {
+  content: "\f102";
+}
+.flaticon-clock-circular-outline:before {
+  content: "\f103";
+}
+.flaticon-loupe:before {
+  content: "\f104";
+}
+.flaticon-arrow-pointing-to-right:before {
+  content: "\f105";
+}
+.flaticon-login:before {
+  content: "\f106";
+}
+.flaticon-faq:before {
+  content: "\f107";
+}
+.flaticon-next:before {
+  content: "\f108";
+}
+.flaticon-star:before {
+  content: "\f109";
+}
+.flaticon-diagonal-arrow:before {
+  content: "\f10a";
+}
+.flaticon-diagonal-arrow-1:before {
+  content: "\f10b";
+}
+.flaticon-back:before {
+  content: "\f10c";
+}
+.flaticon-back-arrow:before {
+  content: "\f10d";
+}
+.flaticon-right-arrows:before {
+  content: "\f10e";
+}
+.flaticon-checkbox-mark:before {
+  content: "\f10f";
+}
+.flaticon-share:before {
+  content: "\f110";
+}
+.flaticon-open-envelope:before {
+  content: "\f111";
+}
+.flaticon-pdf:before {
+  content: "\f112";
+}
+.flaticon-zoom-in:before {
+  content: "\f113";
+}
+.flaticon-headphones:before {
+  content: "\f114";
+}
+.flaticon-user:before {
+  content: "\f115";
+}
+.flaticon-open-book:before {
+  content: "\f116";
+}
+.flaticon-immigrant:before {
+  content: "\f117";
+}
+.flaticon-suitcase:before {
+  content: "\f118";
+}
+.flaticon-camera:before {
+  content: "\f119";
+}
+.flaticon-chevron:before {
+  content: "\f11a";
+}
+.flaticon-passport:before {
+  content: "\f11b";
+}
+.flaticon-play-arrow:before {
+  content: "\f11c";
+}
+.flaticon-target:before {
+  content: "\f11d";
+}
+.flaticon-vision:before {
+  content: "\f11e";
+}
+.flaticon-gems:before {
+  content: "\f11f";
+}
+.flaticon-cn-tower:before {
+  content: "\f120";
+}
+.flaticon-sydney:before {
+  content: "\f121";
+}
+.flaticon-london:before {
+  content: "\f122";
+}
+.flaticon-taj-mahal:before {
+  content: "\f123";
+}
+.flaticon-consulting:before {
+  content: "\f124";
+}
+.flaticon-document:before {
+  content: "\f125";
+}
+.flaticon-open-book-1:before {
+  content: "\f126";
+}
+.flaticon-check:before {
+  content: "\f127";
+}

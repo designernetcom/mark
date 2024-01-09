@@ -1,0 +1,816 @@
+.serviceSection01{
+	padding: 118px 0 113px;
+	background-position: top center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.aboutSection01{
+	position: relative;
+	padding: 0 0 120px;
+}
+.aboutContent01{
+	position: relative;
+	margin: 36px 0 0 0px;
+
+	.subTitle{
+		font-weight: 600;
+		margin-bottom: 31px;
+	}
+
+	.secTitle{
+		margin: 0 0 27px;
+	}
+
+	p{
+		margin: 0 50px 40px 0;
+	}
+
+	.cusrow{
+		margin-right: -62px;
+		margin-bottom: 40px;
+	}
+	.ibImageBox{
+		position: relative;
+		padding: 14px 0 0 155px;
+		min-height: 102px;
+		margin-bottom: 46px;
+
+		img{
+			width: 133px;
+			height: auto;
+			border-radius: 4px;
+			position: absolute;
+			left: 0;
+			top: 0;
+		}
+
+		h4{
+			font-size: 22px;
+			line-height: 32px;
+			margin: 0;
+		}
+	}
+	.btnSign{
+		position: relative;
+		display: flex;
+		align-items: center;
+
+		.immiPressBtn{
+			padding: 0 34px;
+			margin-right: 42px;
+		}
+
+		img{
+			width: 86px;
+			height: auto;
+		}
+	}
+}
+.CTASection01{
+	position: relative;
+}
+.ctaWrapper{
+	position: relative;
+	background: #fff;
+	box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+	padding: 0 0 0 34px;
+	z-index: 2;
+	margin-bottom: -125px;
+
+	h2{
+		font-size: 30px;
+		line-height: 34px;
+		font-weight: 500;
+		margin: 39px 0 15px;
+	}
+	p{
+		margin: 0 0 35px;
+	}
+	.iconBox02{
+		padding-left: 105px;
+		padding-top: 20px;
+
+		.ibBox{
+			width: 72px;
+			height: 72px;
+			background: var(--primay-color);
+			border-radius: 50%;
+			color: #fff;
+			font-size: 30px;
+			box-shadow: none;
+		}
+		.ibTitle{
+			font-size: 24px;
+			line-height: 34px;
+			font-weight: 500;
+			margin: 0;
+
+			a{
+				color: inherit;
+	
+				&:hover{
+					color: var(--primay-color);
+				}
+			}
+		}
+	}
+
+	img{
+		max-width: 100%;
+		margin-left: auto;
+		display: block;
+		min-height: 255px;
+		object-fit: cover;
+		object-position: left;
+		position: relative;
+		left: 1px;
+	}
+}
+.countrySection01{
+	padding: 232px 0 113px;
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: relative;
+
+	&::after{
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		content: '';
+		background: white;
+	}
+	.container{
+		position: relative;
+		z-index: 2;
+	}
+	.immiPressBtn{
+		margin-top: 20px;
+	}
+}
+.teamSection01{
+	position: relative;
+	padding: 118px 0 120px;
+}
+.contactSection01{
+	padding: 145px 0 147px;
+	background-color: var(--heading-color);
+	background-position: left center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	position: relative;
+	overflow: hidden;
+}
+.contactFWrapper{
+    position: relative;
+    background: #fff;
+    border-radius: 4px;
+    padding: 63px 38px 62px;
+
+	.subTitle{
+		margin-bottom: 23px;
+	}
+	.secTitle{
+		font-size: 35px;
+		line-height: 40px;
+		font-weight: 500;
+		margin: 0 0 45px;
+	}
+}
+.conThumb{
+	position: absolute;
+	padding-left: 82px;
+	bottom: 0;
+}
+.coachingSction01{
+	position: relative;
+	display: block;
+	padding: 138px 0 113px;
+
+	.secTitle{
+		margin-bottom: 46px;
+	}
+}
+.testimonialSection01{
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding: 75px 0 70px;
+
+	&::after{
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		content: '';
+		background: rgba(35, 49, 82, 0.68);
+	}
+	.container{
+		position: relative;
+		z-index: 2;
+	}
+}
+.blogSction01{
+	position: relative;
+	display: block;
+	padding: 144px 0 113px;
+
+	.animImage{
+		top: 120px;
+	}
+}
+.serviceSection02{
+	position: relative;
+	overflow: hidden;
+	padding: 120px 0 90px;
+
+	.secTitle{
+		margin-bottom: 45px;
+	}
+}
+.coachingSction02{
+	position: relative;
+	background-color: var(--heading-color);
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	padding: 118px 0 112px;
+
+	.secTitle{
+		font-size: 40px;
+		margin: 21px 0 57px;
+	}
+}
+.countrySection02{
+	position: relative;
+	overflow: hidden;
+	padding: 165px 0 91px;
+	
+	.secTitle{
+		font-size: 45px;
+		margin-bottom: 75px;
+	}
+}
+.CTASection02{
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 70px 0 69px;
+
+	&::after{
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		content: '';
+		background: rgba(35, 49, 82, 0.68);
+	}
+	.container{
+		position: relative;
+		z-index: 2;
+	}
+	.secTitle{
+		color: #fff;
+		margin: 0;
+	}
+	.immiPressBtn{
+		padding: 0 47px;
+		margin: 41px 0 0;
+	}
+}
+.workSection01{
+	position: relative;
+	padding: 118px 0 120px;
+
+	@media (min-width: 1200px){
+		.container {
+			max-width: 1050px;
+		}
+	}
+	.col-lg-4{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+}
+.coachingSction03{
+	position: relative;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 105px 0 102px;
+}
+.aboutSection02{
+	position: relative;
+	padding: 140px 0 100px;
+}
+.aboutContent02{
+	position: relative;
+	margin: 18px 0 0 -5px;
+
+	.secTitle{
+		margin: 0 0 29px;
+	}
+	> p{
+		margin: 0 0 40px;
+	}
+	.iconBox02{
+		margin: 0 15px 31px 0;
+	}
+	img{
+		max-width: 100%;
+		border-radius: 4px;
+		margin: -6px 0 0;
+	}
+	.immiPressBtn{
+		padding: 0 34px;
+		margin: 28px 0 0;
+	}
+}
+
+.serviceSection03{
+	position: relative;
+	background-position: top center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	padding: 120px 0 0;
+}
+.whyChose01{
+	position: relative;
+	padding: 115px 0 83px;
+
+	.subTitle{
+		color: var(--heading-color);
+	}
+	.secTitle{
+		margin-bottom: 39px;
+	}
+	.mapThumb{
+		position: relative;
+		margin: 174px 0 0 -44px;
+
+		img{
+			max-width: 100%;
+			height: auto;
+		}
+	}
+}
+.funfactSection01{
+	position: relative;
+
+	@media (min-width: 1400px){
+		.container{
+			max-width: 1344px;
+		}
+	}
+	.factWrapper{
+		position: relative;
+		z-index: 2;
+		margin-bottom: -112px;
+		background: #FFFFFF;
+		padding: 45px 15px;
+		border: 1px solid rgba(217, 217, 217, 0.6);
+	}
+	.brRight{
+		border-right: 1px solid #D9D9D9;
+	}
+	
+}
+.faqSection01{
+	position: relative;
+	padding: 120px 0 105px;
+	
+	.tmjAccordion{
+		margin: 0 -5px;
+	}
+}
+.testimonialSection02{
+	position: relative;
+	background-position: top center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	z-index: 2;
+	overflow: hidden;
+	padding: 120px 0 0;
+
+	.animThumb{
+		top: 38px;
+		right: auto;
+		left: 32px;
+		z-index: -1;
+	}
+	.atRight{
+		top: 22px;
+		right: 0;
+		left: auto;
+		animation: rotated 20s infinite linear;
+	}
+}
+.blogSction02{
+	position: relative;
+	display: block;
+	padding: 115px 0 113px;
+}
+.aboutSection03{
+	position: relative;
+	padding: 120px 0 0;
+}
+.serviceSection04{
+	padding: 120px 0 108px;
+	background-position: bottom center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.coachingSction04{
+	position: relative;
+	padding: 120px 0 112px;
+	display: block;
+
+	.secTitle{
+		margin-bottom: 48px;
+	}
+}
+.faqSection02{
+	position: relative;
+	padding: 130px 0 108px;
+
+	.subTitle{
+		margin-top: 24px;
+	}
+
+	.secTitle{
+		margin-bottom: 58px;
+	}
+}
+
+.contactSection02{
+	position: relative;
+	padding: 120px 0;
+
+	.contactFWrapper{
+		padding: 29px 22px 0 0;
+		background: transparent;
+		border-radius: 0;
+
+		.subTitle {
+			margin-bottom: 19px;
+		}
+
+		.secTitle{
+			font-size: 45px;
+			line-height: 54px;
+			font-weight: 600;
+			margin-bottom: 50px;
+		}
+	}
+}
+.blogSction03{
+	position: relative;
+	padding: 115px 0 114px;
+	display: block;
+}
+.abPageAbout{
+	position: relative;
+	padding: 120px 0;
+}
+.abPageCountry{
+	padding: 118px 0 113px;
+}
+.abPageService{
+	padding-top: 5px;
+}
+.abPageTestimonial{
+	position: relative;
+	overflow: hidden;
+	padding: 121px 0 115px;
+}
+.ServicePageSection{
+	position: relative;
+	padding: 121px 0 90px;
+}
+.ssPb0{
+	padding-bottom: 0px;
+}
+.colGap{
+	position: relative;
+	margin-left: -9px;
+	margin-right: -9px;
+
+	.col-lg-4{
+		padding-left: 9px;
+		padding-right: 9px;
+	}
+}
+.teamPageSection{
+	position: relative;
+	padding: 120px 0 96px;
+
+	.teamItem01{
+		margin-bottom: 24px;
+	}
+}
+.pdT0{
+	padding-top: 0;
+}
+.coachingPageSction{
+	position: relative;
+	padding: 120px 0 115px;
+	display: block;
+
+	.secTitle{
+		margin-bottom: 48px;
+	}
+	.coachingItem02{
+		margin-bottom: 17px;
+	}
+	.immiPressBtn{
+		padding: 0 40px;
+		margin-top: 35px;
+	}
+}
+.countryPageSection{
+	position: relative;
+	padding: 120px 0 115px;
+	display: block;
+
+	.secTitle{
+		margin-bottom: 78px;
+	}
+	.immiPressBtn{
+		padding: 0 48px;
+	}
+}
+.faqPageSection{
+	position: relative;
+	padding: 120px 0 105px;
+}
+.mapsSection{
+	position: relative;
+	overflow: hidden;
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1400px){
+	.aboutContent01{
+		margin-top: 0;
+		.cusrow{
+			margin-right: 0;
+		}
+	}
+	.ctaWrapper{
+		padding-left: 25px;
+
+		h2{
+			margin-right: -40px;
+		}
+	}
+	.aboutContent02{
+		margin: 0;
+	}
+	.aboutSection03 .aboutContent02,
+	.aboutSection02 .aboutContent02,
+	.aboutSection01 .aboutContent01{
+		margin-left: 20px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.aboutSection03 .aboutContent02,
+	.aboutSection02 .aboutContent02,
+	.aboutSection01 .aboutContent01{
+		margin-left: 6px;
+	}
+	.aboutContent02{
+		margin: 0;
+	}
+	.funfactSection01 .funfact01{
+		padding-left: 15px;
+		padding-right: 15px;
+
+		h5{
+			font-size: 22px;
+		}
+	}
+	.ctaWrapper p{
+		margin-right: -60px;
+	}
+	.contactSection01{
+		padding: 120px 0 110px;
+	}
+	.aboutContent02{
+		.col-xl-7,
+		.col-lg-7 {
+			flex: 0 0 auto;
+			width: 100%;
+		}
+		.col-xl-5,
+		.col-lg-5 {
+			display: none;
+		}
+	}
+}
+@media (max-width: 1199px){
+	.aboutContent01{
+		margin: 0;
+		.subTitle{
+			margin-bottom: 17px;
+		}
+		p{
+			margin-right: 0;
+			margin-bottom: 10px;
+		}
+		.cusrow{
+			margin-right: 0;
+		}
+		.ibImageBox{
+			padding-top: 0;
+		}
+	}
+	.ctaWrapper p{
+		margin-bottom: 0;
+	}
+	.ctaWrapper h2{
+		font-size: 24px;
+		margin: 30px -55px 15px 0;
+	}
+	.aboutContent02 .iconBox02{
+		margin-right: 0;
+	}
+	.contactSection02 .contactFWrapper{
+		padding-right: 0;
+	}
+}
+@media (max-width: 991px){
+	.aboutContent02{
+		margin: 30px 0 0;
+	}
+	.aboutContent01{
+		margin: 45px 0 0;
+
+		.btnSign .immiPressBtn {
+			padding: 0 30px;
+			margin-right: 15px;
+		}
+	}
+	.conThumb{
+		padding: 30px 0 0;
+		position: relative;
+		text-align: center;
+	}
+	.contactSection01{
+		padding-bottom: 0;
+	}
+	.ctaWrapper{
+		padding: 0 20px;
+
+		img{
+			margin-top: 30px;
+			min-height: auto;
+		}
+	}
+	.countrySection02 .secTitle,
+	.coachingSction02 .secTitle{
+		font-size: 38px;
+	}
+	.contactSection02 .contactFWrapper .secTitle{
+		font-size: 33px;
+		line-height: 45px;
+		margin-bottom: 30px;
+	}
+	.whyChose01 .mapThumb{
+		margin: 30px 0 0;
+	}
+	.funfactSection01 .brRight:nth-child(2){
+		border-right: none;
+	}
+}
+@media (max-width: 767px){
+	.CTASection02{
+		padding: 58px 0 50px;
+	}
+	.aboutContent01 .ibImageBox{
+		max-width: 400px;
+	}
+    .testimonialSection02 .animThumb{
+        display: none;
+    }
+	.contactFWrapper{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.ctaWrapper h2{
+		margin-right: 0;
+	}
+	.countrySection02 .secTitle,
+	.coachingSction02 .secTitle{
+		font-size: 30px;
+	}
+	.countrySection01{
+		padding: 200px 0 80px;
+	}
+	.ctaWrapper .iconBox02{
+		padding-left: 90px;
+		margin-bottom: 20px;
+	}
+	.blogSction02, .teamPageSection, 
+	.blogSction01, .workSection01, .coachingPageSction,
+	.coachingSction01, .coachingSction03,
+	.teamSection01, .serviceSection04, .coachingSction04,
+	.faqSection02, .blogSction03, .ServicePageSection, 
+	.serviceSection01{
+		padding: 80px 0 60px;
+	}
+	.coachingPageSction .secTitle,
+	.coachingSction02 .secTitle,
+	.serviceSection02 .secTitle{
+		margin-bottom: 30px;
+	}
+	.faqPageSection, .countryPageSection, 
+	.abPageAbout, .abPageCountry, .abPageTestimonial,
+	.countrySection02, .aboutSection02, .faqSection01, 
+	.serviceSection02, .coachingSction02{
+		padding: 80px 0;
+	}
+	.whyChose01{
+		padding-top: 60px;
+	}
+	.countryPageSection .secTitle,
+	.countrySection02 .secTitle{
+		margin-bottom: 45px;
+	}
+	.teamDetailsSection{
+		padding: 80px 0 0 !important;
+	}
+	.aboutSection01{
+		padding-bottom: 80px;
+	}
+	.aboutSection03,
+	.testimonialSection02, .serviceSection03,
+	.contactSection01{
+		padding-top: 80px;
+
+		.animThumb{
+			display: none;
+		}
+	}
+	.serviceSection01.ssPb0{
+		padding-bottom: 0;
+	}
+	.abPageService{
+		padding-bottom: 50px;
+	}
+	.blogSction01 .animImage{
+		top: 60px;
+	}
+	.CTASection02 .immiPressBtn{
+		margin-top: 0;
+	}
+	.contactSection02{
+		padding: 60px 0 80px;
+	}
+}
+@media (max-width: 575px){
+	.aboutContent02 .col-lg-5.col-sm-6,
+	.aboutContent02 .col-xl-5.col-sm-6{
+		display: none;
+	}
+	.aboutContent02 .immiPressBtn{
+		margin-top: 0;
+	}
+	.funfactSection01 .brRight{
+		border: none;
+	}
+	.CTASection02 .immiPressBtn {
+		margin-top: 30px;
+	}
+	.CTASection02 .text-end {
+		text-align: left !important;
+	}
+	.ctaWrapper .iconBox02{
+		padding: 18px 0 0 72px;
+		margin-bottom: 5px;
+
+		.ibBox{
+			width: 60px;
+			height: 60px;
+			font-size: 24px;
+		}
+		.ibTitle{
+			font-size: 20px;
+		}
+	}
+}
+
+
